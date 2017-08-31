@@ -1,1 +1,4 @@
-# johndah4x0r.github.io
+# JeOOB Homepage
+
+## This page exists for a reason; To share my projects
+
