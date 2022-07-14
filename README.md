@@ -21,4 +21,4 @@ A summary of the projects that I have contributed to in the past.
 *Note that some of these projects are on indefinite hold*
 
 ## Noteworthy projects
-- [Live Kit Improved](http://johndah4x0r.github.io/livekit-improved)
+- [Live Kit Improved](https://github.com/johndah4x0r/livekit-improved)
