@@ -1,27 +1,25 @@
-# johndah4x0r's homepage
+# General
 
-## General
-
-### Known aliases
+## Known aliases
 - johndah4x0r
 - clapdrop
 - ogclapdrop
 
-### Profiles
+## Profiles
 - [Steam Community profile (u/clapdrop)](https://steamcommunity.com/id/clapdrop)
 - [Instagram profile (clapdrop)](https://instagram.com/clapdrop)
 - [GitHub page](https://github.com/johndah4x0r/)
 
-### Contact information
+## Contact information
 - E-mail address: terencedoesmc12 AT gmail DOT com
 - Snapchat: ogclapdrop
 
 ---
 
-## Projects
+# Projects
 A summary of the projects that I have contributed to in the past.
 
 *Note that some of these projects are on indefinite hold*
 
-### Noteworthy projects
+## Noteworthy projects
 - [Live Kit Improved](http://johndah4x0r.github.io/livekit-improved)
