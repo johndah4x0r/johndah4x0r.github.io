@@ -4,8 +4,11 @@
     - [Historical projects](#histproj)
 - [Socials](#socials)
 
-I am an aspiring mixed-role developer who has some experience
-with developing both low-level and high-level software.
+I am an aspiring developer who values curiosity over 
+specialization. Whether it's an academic Python prototype,
+a backend service, or a legacy x86 operating system, I build
+things because I want to understand them, and I learn whatever
+I need along the way.
 
 As of **2025-08-15**, I am currently pursuing a Bachelor's
 degree in *Electronics, Informatics and Technology* at the
