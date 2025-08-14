@@ -1,18 +1,31 @@
 # Welcome!
- * [Projects](#projects)
- * [General](#general)
+- [Projects](#projects)
+    - [Noteworthy projects](#lookatme)
+    - [Historical projects](#histproj)
+- [Socials](#socials)
+
+I am an aspiring mixed-role developer who has some experience
+with developing both low-level and high-level software.
+
+As of **2025-08-15**, I am currently pursuing a Bachelor's
+degree in *Electronics, Informatics and Technology* at the
+**University of Oslo**. (term 5 / 6)
 
 ## <a name="projects"></a> Projects
-A summary of the projects that I have contributed to in the past.
+A summary of projects that I have contributed to in the past.
 
 *Note that some of these projects are on indefinite hold*
 
-### Noteworthy projects
-- [Live Kit Improved](https://github.com/johndah4x0r/livekit-improved)
+### <a name="lookatme"></a> Noteworthy projects
+- [**magnetite_os**](magnetite_os/)
 
-## <a name="general"></a> General
+### <a name="histproj"></a> Historical projects
+- [*Live Kit Improved*](https://github.com/johndah4x0r/livekit-improved)
 
-### Profiles
+
+## <a name="socials"></a> Socials
+
+### <a name="profiles"></a> Profiles
 - [GitHub (johndah4x0r)](https://github.com/johndah4x0r/)
 - [Instagram (clapdrop)](https://instagram.com/clapdrop)
 - [Reddit (clapdrop)](https://reddit.com/u/clapdrop)
@@ -24,5 +37,6 @@ A summary of the projects that I have contributed to in the past.
 - ogclapdrop
 
 ### Contact information
-- E-mail address: terencedoesmc12 AT gmail DOT com
+- Personal e-mail address: terencedoesmc12 AT gmail.com
+- Professional e-mail address: jicalder AT uio.no
 - Snapchat: ogclapdrop
