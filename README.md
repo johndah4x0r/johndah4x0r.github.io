@@ -1,8 +1,8 @@
 # Welcome!
- * [Projects](#Projects)
- * [General](#General)
+ * [Projects](#projects)
+ * [General](#general)
 
-## Projects
+## <a name="projects"></a> Projects
 A summary of the projects that I have contributed to in the past.
 
 *Note that some of these projects are on indefinite hold*
@@ -10,7 +10,7 @@ A summary of the projects that I have contributed to in the past.
 ### Noteworthy projects
 - [Live Kit Improved](https://github.com/johndah4x0r/livekit-improved)
 
-## General
+## <a name="general"></a> General
 
 ### Profiles
 - [GitHub (johndah4x0r)](https://github.com/johndah4x0r/)
