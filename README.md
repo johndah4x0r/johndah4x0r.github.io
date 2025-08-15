@@ -17,11 +17,15 @@ degree in *Electronics, Informatics and Technology* at the
 ## <a name="projects"></a> Projects
 Here are projects I have contributed to *at least once*.
 Projects in **bold** are active, while projects in _italic_
-are frozen or archived.
+are archived.
 
 ### <a name="lookatme"></a> Noteworthy projects
 - [**magnetite_os**](magnetite_os/) - an experimental Rust
   OS development project
+- [TheLastBounce](https://github.com/johndah4x0r/TheLastBounce) - a
+  Pong-style game in Python with remote PvP functionality
+- [kingkeezy/Webserver-TheLastBounce](https://github.com/kingkeezy/Webserver-TheLastBounce) - the
+  original *TheLastBounce* (in collaboration with [kingkeezy](https://github.com/kingkeezy))
 
 ### <a name="histproj"></a> Historical projects
 - [*Live Kit Improved*](https://github.com/johndah4x0r/livekit-improved)
