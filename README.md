@@ -15,12 +15,13 @@ degree in *Electronics, Informatics and Technology* at the
 **University of Oslo**. (term 5 / 6)
 
 ## <a name="projects"></a> Projects
-A summary of projects that I have contributed to in the past.
-
-*Note that some of these projects are on indefinite hold*
+Here are projects I have contributed to *at least once*.
+Projects in **bold** are active, while projects in _italic_
+are frozen or archived.
 
 ### <a name="lookatme"></a> Noteworthy projects
-- [**magnetite_os**](magnetite_os/)
+- [**magnetite_os**](magnetite_os/) - an experimental Rust
+  OS development project
 
 ### <a name="histproj"></a> Historical projects
 - [*Live Kit Improved*](https://github.com/johndah4x0r/livekit-improved)
