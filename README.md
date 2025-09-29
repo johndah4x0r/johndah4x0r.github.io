@@ -20,7 +20,7 @@ Projects in **bold** are active, while projects in _italic_
 are archived.
 
 ### <a name="lookatme"></a> Noteworthy projects
-- [**magnetite_os**](magnetite_os/) - an experimental Rust
+- [magnetite_os](magnetite_os/) - an experimental Rust
   OS development project
 - [TheLastBounce](https://github.com/johndah4x0r/TheLastBounce) - a
   Pong-style game in Python with remote PvP functionality
