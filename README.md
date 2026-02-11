@@ -10,9 +10,9 @@ a backend service, or a legacy x86 operating system, I build
 things because I want to understand them, and I learn whatever
 I need along the way.
 
-As of **2025-08-15**, I am currently pursuing a Bachelor's
+As of **2026-02-11**, I am currently pursuing a Bachelor's
 degree in *Electronics, Informatics and Technology* at the
-**University of Oslo**. (term 5 / 6)
+**University of Oslo**. (term 6 / 6)
 
 ## <a name="projects"></a> Projects
 Here are projects I have contributed to *at least once*.
