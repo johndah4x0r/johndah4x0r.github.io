@@ -34,6 +34,7 @@ are archived.
 ## <a name="socials"></a> Socials
 
 ### <a name="profiles"></a> Profiles
+- [LinkedIn (jicalder)](https://linkedin.com/in/jicalder/)
 - [GitHub (johndah4x0r)](https://github.com/johndah4x0r/)
 - [Instagram (clapdrop)](https://instagram.com/clapdrop)
 - [Reddit (clapdrop)](https://reddit.com/u/clapdrop)
@@ -43,6 +44,7 @@ are archived.
 - johndah4x0r
 - clapdrop
 - ogclapdrop
+- jicalder
 
 ### Contact information
 - Personal e-mail address: terencedoesmc12 AT gmail.com
